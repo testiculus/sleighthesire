@@ -235,7 +235,7 @@ body {
 	border-color:transparent;
 }
 .button .img_wrapper {
-	height:7vmin;
+	display:flex;
 }
 .button .img_wrapper img{
 	height:7vmin;
